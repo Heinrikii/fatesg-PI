@@ -1,4 +1,4 @@
-package com.example.oficinaco.jpa;
+package com.example.oficinaco.jpa.entidade;
 
 import java.util.List;
 
