@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import com.example.oficinaco.jpa.dao.ServicoDao;
 import com.example.oficinaco.jpa.entidade.Servico;
 
-@Service
+//@Service
 public class ServicoTeste {
 	
 	@Autowired
