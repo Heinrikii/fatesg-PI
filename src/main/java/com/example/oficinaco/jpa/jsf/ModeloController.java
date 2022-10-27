@@ -14,7 +14,7 @@ import com.example.oficinaco.jpa.entidade.Modelo;
 
 @Component
 @SessionScoped
-public class ModeloControl {
+public class ModeloController {
 	
 	@Autowired
 	private ModeloDao modeloDao;
